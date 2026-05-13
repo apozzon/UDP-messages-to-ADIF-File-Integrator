@@ -1,0 +1,4 @@
+Unzip the file into a temp dirtectory of your choice.
+Open the installer giving a directory whre you want the program to run.
+BE SURE YOU HAVE INSTALLED JAVA VIRTUAL MACHINE, if you do not have always the connection to internet,
+choose the version WINDOWS NOT ON LINE in https://www.java.com/it/download/manual.jsp
